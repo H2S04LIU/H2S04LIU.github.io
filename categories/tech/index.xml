@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on 🫙硫酸罐子</title>
+    <link>https://H2S04LIU.github.io/categories/tech/</link>
+    <description>Recent content in Tech on 🫙硫酸罐子</description>
+    <generator>Hugo -- 0.140.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 17 Dec 2024 22:14:16 +0800</lastBuildDate>
+    <atom:link href="https://H2S04LIU.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://H2S04LIU.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Dec 2024 22:14:16 +0800</pubDate>
+      <guid>https://H2S04LIU.github.io/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;第一条-blog&#34;&gt;第一条 blog&lt;/h2&gt;
+&lt;p&gt;测试测试小测试&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
